@@ -50,6 +50,7 @@ IT7官方旗下的低价VPS主机产品，拥有速度较好的西岸亚利桑�
 
 新用户在vultr 是有优惠的（这个是我的邀请链接）
 [传送门](https://www.vultr.com/?ref=7222232)
+
 [支付超过35$使用这个,内含100$免费额度](https://www.vultr.com/?ref=9447514-8H)
 1.注册
 ![](http://upload-images.jianshu.io/upload_images/1359048-2e602d235daeda03.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

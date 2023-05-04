@@ -3,12 +3,15 @@
 1.vultr 目前最低价格5$ 一个月 1000g 流量独享 选择方式为
 products -> + -> Choose Server->Cloud Compute
 NEW High Performance  最低是 6$ 2000g 
-Regular Performance 最低 5$ 1000g
-High Performance 最低是 6$ 2000g 
-按各位需求所选
 
+Regular Performance 最低 5$ 1000g
+
+High Performance 最低是 6$ 2000g 
+
+按各位需求所选
 新用户在vultr 是有优惠的（这个是我的邀请链接）
 [传送门](https://www.vultr.com/?ref=7222232)
+
 如果长期使用的话推荐试一下 100$免费额度 这个，一次冲35$ 可以建一个 2000g 的 半年了，加上送的100$ 一共可以使用 8个月左右，纯个人独享
 [支付超过35$使用这个,内含100$免费额度](https://www.vultr.com/?ref=9447514-8H)
 

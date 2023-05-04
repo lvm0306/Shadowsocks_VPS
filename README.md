@@ -14,6 +14,24 @@ High Performance 最低是 6$ 2000g
 
 如果长期使用的话推荐试一下 100$免费额度 这个，一次冲35$ 可以建一个 2000g 的 半年了，加上送的100$ 一共可以使用 8个月左右，纯个人独享
 [支付超过35$使用这个,内含100$免费额度](https://www.vultr.com/?ref=9447514-8H)
+2.现在优先使用clash pro等软件，需要创建好服务器节点后，找到一个shadowsocker 软件 将创建好的服务器 ip port 等填入，获取 ss://xxx 链接
+然后将链接 转化 为 clash 订阅链接 
+
+在线配置Clash.yaml文件
+
+sub.789.st/
+
+acl4ssr-sub.github.io/
+
+goii.cc/clash
+
+在线自己配置（需要一定基础）：
+
+clash.skk.moe/
+
+在线Clash查看管理
+
+Windows clash客户端：www.zhuguodong.com/?id=507
 
 ### 一、准备
 * paypal

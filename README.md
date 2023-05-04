@@ -33,7 +33,7 @@ clash.skk.moe/
 
 在线Clash查看管理
 
-Windows clash客户端：www.zhuguodong.com/?id=507
+clash客户端：software 目录下 
 
 ### 一、准备
 * paypal
